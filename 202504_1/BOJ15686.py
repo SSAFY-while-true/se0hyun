@@ -11,10 +11,8 @@ def dfs(result, combis, homes):
     '''
     for combi in combis:
         value = 0
-        if value > result:
-            continue
         for home in homes:
-            value += min(abs(home[0]-x)+abs(home[1]-y) for x, y in combi)
+            value += min(abs(home[0] - x) + abs(home[1] - y) for x, y in combi)
         result = min(value, result)
     
     return result
