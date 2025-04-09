@@ -6,6 +6,7 @@
 
 <details>
 <summary> <b>Apr 1st, 2025 👇</b></summary>
+  
 |출처|난이도|문제번호|문제명|Solved|
 |:---|:---|:---|:---|:---|
 |BOJ|Gold V|7576|[토마토](https://www.acmicpc.net/problem/7576)|✅|  
@@ -16,11 +17,13 @@
 |BOJ|Silver V|13699|[점화식](https://www.acmicpc.net/problem/13699)|❌|
 |BOJ|Silver V|14606|[피자 (Small)](https://www.acmicpc.net/problem/14606)|❌| 
 |BOJ|Silver II|1699|[제곱수의 합](https://www.acmicpc.net/problem/1699)|❌|
+
 </details>
 
 
 <details>
 <summary> <b>Mar 5th, 2025 👇</b></summary>
+  
 |출처|난이도|문제번호|문제명|Solved| 
 |:---|:---|:---|:---|:---|
 |BOJ|Gold V|16928|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|❌|
@@ -31,10 +34,12 @@
 |BOJ|Silver V|14916|[거스름돈](https://www.acmicpc.net/problem/14926)|❌|
 |BOJ|Silver V|19947|[투자의 귀재 배주형](https://www.acmicpc.net/problem/19947)|❌|
 |BOJ|Silver III|17626|[Four Squares](https://www.acmicpc.net/problem/17626)|❌|
+
 </details>
 
 <details>
 <summary> <b>Mar 4th, 2025 👇</b></summary>
+  
 |출처|난이도|문제번호|문제명|  
 |:---|:---|:---|:---|
 |BOJ|Gold V|1074|[Z](https://www.acmicpc.net/problem/1074)|❌|
@@ -45,44 +50,53 @@
 |BOJ|Silver V|9625|[BABBA](https://www.acmicpc.net/problem/9625)|✅  
 |BOJ|Silver V|13301|[타일 장식물](https://www.acmicpc.net/problem/13301)|✅  
 |BOJ|Silver V|1010|[다리 놓기](https://www.acmicpc.net/problem/1010)|❌|
+  
 </details>
 
 <details>
 <summary> <b>Mar 3rd, 2025  👇</b></summary>
+  
 |출처|난이도|문제번호|문제명|Solved|
 |:---|:---|:---|:---|:---|
 |BOJ|Silver I|1149|[RGB거리](https://www.acmicpc.net/problem/1149)|✅  
 |BOJ|Gold V|2467|[용액](https://www.acmicpc.net/problem/2467)|✅  
 |BOJ|Gold V|5430|[AC](https://www.acmicpc.net/problem/5430)|✅  
 |Programmers|Level 2|389479|[서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)|✅  
+
 </details>
 
 <details>
 <summary> <b>Mar 2nd, 2025 👇</b></summary>
+  
 |출처|난이도|문제번호|문제명|Solved|
 |:---|:---|:---|:---|:---|
 |BOJ|Silver I|11403|[경로 찾기](https://www.acmicpc.net/problem/11403)|✅  
 |BOJ|Silver I|15903|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)|✅  
 |BOJ|Gold V|12865|[평범한 배낭](https://www.acmicpc.net/problem/12865)|✅  
 |BOJ|Gold V|1931|[회의실 배정](https://www.acmicpc.net/problem/1931)|✅  
+
 </details>
 
 <details>
 <summary> <b>Mar 1st, 2025 👇</b></summary>
+  
 |출처|난이도|문제번호|문제명|Solved|
 |:---|:---|:---|:---|:---|
 |BOJ|Silver II|30804|[과일 탕후루](https://www.acmicpc.net/problem/30804)|✅  
 |BOJ|Silver I|1309|[동물원](https://www.acmicpc.net/problem/1309)|✅  
 |BOJ|Silver I|1325|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|✅  
 |BOJ|Gold V|15486|[퇴사 2](https://www.acmicpc.net/problem/15486)|✅  
+
 </details>
 
 <details>
 <summary> <b> Feb 3rd, 2025👇</b></summary>
+  
 |출처|난이도|문제번호|문제명|Solved|
 |:---|:---|:---|:---|:---|
 |BOJ|Silver II|21736|[헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)|✅  
 |BOJ|Silver I|14888|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|✅  
 |BOJ|Silver I|3621|[족보](https://www.acmicpc.net/problem/21736)|✅  
 |BOJ|Silver II|1644|[촌수계산](https://www.acmicpc.net/problem/2644)|✅  
+
 </details>
