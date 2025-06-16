@@ -11,8 +11,6 @@ for v in ['a', 'e', 'i', 'o', 'u']:
         consonants.remove(v)
         vowels.append(v)
 
-consonants.sort()
-vowels.sort()
 results = []
 
 for vowel_count in range(1, L-1):
