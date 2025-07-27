@@ -1,5 +1,73 @@
 # se0hyun
 
+<details>
+<summary> <b>Jul 3rd, 2025 👇</b></summary>
+
+### Jul 3rd, 2025
+|출처|난이도|문제번호|문제명|Solved|
+|:---|:---|:---|:---|:---|
+|BOJ|Gold IV|1339|[단어 수학](https://www.acmicpc.net/problem/1339)|❌|
+|BOJ|Gold V|14719|[빗물](https://www.acmicpc.net/problem/14719)|❌|
+|BOJ|Gold III|2342|[Dance Dance Revolution](https://www.acmicpc.net/problem/2342)|❌|
+|Programmers|Lv.1|151139|[대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139)|❌|
+
+</details>
+
+<details>
+<summary> <b>Jul 2nd, 2025 👇</b></summary>
+
+### Jul 2nd, 2025
+|출처|난이도|문제번호|문제명|Solved|
+|:---|:---|:---|:---|:---|
+|BOJ|Gold V|1174|[줄어드는 수](https://www.acmicpc.net/problem/1174)|❌|
+|BOJ|Gold V|1660|[캡틴 이다솜](https://www.acmicpc.net/problem/1660)|❌|
+|BOJ|Gold V|2493|[탑](https://www.acmicpc.net/problem/2493)|❌|
+|Programmers|Lv.4|59413|[입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413)|❌|
+
+</details>
+
+<details>
+<summary> <b>Jun 3rd, 2025 👇</b></summary>
+
+### Jun 3rd, 2025
+|출처|난이도|문제번호|문제명|Solved|
+|:---|:---|:---|:---|:---|
+|BOJ|Gold IV|1197|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|❌|
+|BOJ|Gold V|9251|[LCS](https://www.acmicpc.net/problem/9251)|❌|
+|BOJ|Gold V|11758|[CCW](https://www.acmicpc.net/problem/11758)|❌|
+|BOJ|Gold III|14890|[경사로](https://www.acmicpc.net/problem/14890)|❌|
+
+</details>
+
+<details>
+<summary> <b>Jun 2nd, 2025 👇</b></summary>
+
+### Jun 2nd, 2025
+|출처|난이도|문제번호|문제명|Solved|
+|:---|:---|:---|:---|:---|
+|BOJ|Gold V|2166|[다각형의 면적](https://www.acmicpc.net/problem/2166)|❌|
+|BOJ|Gold V|1759|[암호 만들기](http://acmicpc.net/problem/1759)|❌|
+|BOJ|Silver I|10844|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|❌|
+|BOJ|Gold V|13549|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|❌|
+
+</details>
+
+<details>
+<summary> <b>Jun 1st, 2025 👇</b></summary>
+
+### Jun 1st, 2025
+|출처|난이도|문제번호|문제명|Solved|
+|:---|:---|:---|:---|:---|
+|BOJ|Silver I|14940|[쉬운 최단거리](https://www.acmicpc.net/problem/14940)|❌|
+|BOJ|Silver II|11725|[트리의 부모](https://www.acmicpc.net/problem/11725)|❌|
+|Programmers|Lv.3|12927|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927?language=python3)|❌|
+|BOJ|Silver II|1058|[친구](https://www.acmicpc.net/problem/1058)|❌|
+
+</details>
+
+<details>
+<summary> <b>Apr 3rd, 2025 👇</b></summary>
+  
 ### Apr 3rd, 2025
 |출처|난이도|문제번호|문제명|Solved|
 |:---|:---|:---|:---|:---|
@@ -12,6 +80,11 @@
 |BOJ|Silver II|18353|[병사 배치하기](https://www.acmicpc.net/problem/18353)|❌|
 |BOJ|Silver III|2407|[조합](https://www.acmicpc.net/problem/2407)|❌|
 
+</details>
+
+<details>
+<summary> <b>Apr 2nd, 2025 👇</b></summary>
+
 ### Apr 2nd, 2025🤓
 |출처|난이도|문제번호|문제명|Solved|
 |:---|:---|:---|:---|:---|
@@ -23,6 +96,8 @@
 |BOJ|Silver III|2193|[이친수](https://www.acmicpc.net/problem/2193)|✅|
 |BOJ|Silver III|9461|[파도반 수열](https://www.acmicpc.net/problem/9461)|❌|
 |BOJ|Silver IV|1491|[나선](https://www.acmicpc.net/problem/1491)|❌|
+
+</details>
 
 <details>
 <summary> <b>Apr 1st, 2025 👇</b></summary>
